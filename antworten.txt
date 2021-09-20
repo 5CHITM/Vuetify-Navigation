@@ -22,3 +22,4 @@ den aktiven Button (Link), sodass der User weiß was ausgewählt wurde!
     </v-main>
   </v-app>
 
+Aufgabe 3: Erstelle vier Routen (Home, Products, Team, About) und verlinke im Drawer auf diese Routen. Verwende in den Views Blindtext.
