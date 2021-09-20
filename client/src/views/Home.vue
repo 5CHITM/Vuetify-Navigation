@@ -1,15 +1,18 @@
 <template>
-  <hello-world />
+  <div>
+    <h1>Home</h1>
+    <Ipsum></Ipsum>
+  </div>
 </template>
 
 <script>
-  import HelloWorld from '../components/HelloWorld'
+import Ipsum from '../components/Ipsum';
 
-  export default {
-    name: 'Home',
+export default {
+  name: 'Home',
 
-    components: {
-      HelloWorld,
-    },
-  }
+  components: {
+    Ipsum,
+  },
+};
 </script>
